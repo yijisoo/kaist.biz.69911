@@ -19,7 +19,7 @@ KAIST College of Business course **BIZ 69911** term project hub. This page lists
 | 11 | team11 | Can I Eat? | 식품 성분표 분석으로 글로벌 식사 안전을 보장하는 앱 | [shinhs0814/IMMSgroup11](https://github.com/shinhs0814/IMMSgroup11) |
 | 12 | team_mentalcoach | 마음코치 (Mental Coach) | AI 기반 감정 코칭 및 회고 서비스 | [jycho91/mentalcoach](https://github.com/jycho91/mentalcoach) |
 | 13 | team_chorus | Chorus | 여러 LLM을 동시에 사용하고 답변을 비교하는 멀티-LLM 워크스페이스 | [Eunji-Kim-412/team_chorus](https://github.com/Eunji-Kim-412/team_chorus) |
-| 14 | team15 (NEW) | k-ai-mental-support | 인지행동치료 기반 정신건강 지원 서비스 | [dubidubadubiduba/k-ai-mental-support](https://github.com/dubidubadubiduba/k-ai-mental-support) |
+| 14 | k-ai-mental-support | k-ai-mental-support | 인지행동치료 기반 정신건강 지원 서비스 | [dubidubadubiduba/k-ai-mental-support](https://github.com/dubidubadubiduba/k-ai-mental-support) |
 
 ---
 
