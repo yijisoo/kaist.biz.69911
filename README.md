@@ -6,7 +6,7 @@ KAIST College of Business course **BIZ 69911** term project hub. This page lists
 
 | # | Team | Project | Description | Repository |
 |---|------|---------|-------------|------------|
-| 1 | team_oh | Can I Eat? | 언어와 국경을 초월한 식사 안전 검증 앱 | [chck0/oh](https://github.com/chck0/oh) |
+| 1 | team_oh | Oh | 유적지 Agent | [chck0/oh](https://github.com/chck0/oh) |
 | 2 | team_subsidy-buddy | GovGrant Match | AI가 사업자등록증을 분석해 맞춤 정부지원금을 추천하는 서비스 | [funjun2938/subsidy-buddy](https://github.com/funjun2938/subsidy-buddy) |
 | 3 | team03 | Pacemaker | 자기계발을 희망하는 직장인들의 성장 여정을 지원하는 개인 코칭 시스템 | [ic0715/AI_Team3](https://github.com/ic0715/AI_Team3) |
 | 4 | team_glocalx | GlocalX | 다국어 Google 비즈니스 프로필 자동화로 한국 SMB 음식점의 외국인 고객 유입 지원 | [GyehyuKim/glocalx](https://github.com/GyehyuKim/glocalx) |
