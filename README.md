@@ -11,7 +11,7 @@ KAIST College of Business course **BIZ 69911** term project hub. This page lists
 | 3 | team03 | Pacemaker | 자기계발을 희망하는 직장인들의 성장 여정을 지원하는 개인 코칭 시스템 | [ic0715/AI_Team3](https://github.com/ic0715/AI_Team3) |
 | 4 | team_glocalx | GlocalX | 다국어 Google 비즈니스 프로필 자동화로 한국 SMB 음식점의 외국인 고객 유입 지원 | [GyehyuKim/glocalx](https://github.com/GyehyuKim/glocalx) |
 | 5 | team05 | AI-evolution-team5 | KAIST MBA AI 클래스 팀 프로젝트 | [chloeyschung/AI-evolution-team5](https://github.com/chloeyschung/AI-evolution-team5) |
-| 6 | team06 | ai-evolution-team6 | KAIST MBA AI 클래스 팀 프로젝트 | [yayana0205/ai-evolution-team6](https://github.com/yayana0205/ai-evolution-team6) |
+| 6 | team06 | RunFit | 데이터 기반 러닝화 추천 서비스 | [kmchoikm/ai-evolution-team6](https://github.com/kmchoikm/ai-evolution-team6) |
 | 7 | team_trendingshorts | Shortform Pulse | YouTube Shorts / TikTok / Instagram Reels 트렌드 인텔리전스 플랫폼 | [seu-seo/trendingshorts](https://github.com/seu-seo/trendingshorts) |
 | 8 | team_InnovAIght | BRIDGE | 중소기업의 글로벌 진출을 돕는 AI 기반 수출 규제 네비게이터 | [donghyunlee73/Team_InnovAIght](https://github.com/donghyunlee73/Team_InnovAIght) |
 | 9 | team09 | AI Career Explorer | AI 커리어 코치와 대화하며 맞춤형 커리어를 탐색하는 서비스 | [AIBizTeam9/team9](https://github.com/AIBizTeam9/team9) |
