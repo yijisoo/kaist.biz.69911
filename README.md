@@ -20,6 +20,8 @@ KAIST College of Business course **BIZ 69911** term project hub. This page lists
 | 12 | RegulMate | 법령 변경 모니터링부터 규제 영향 분석·개정안 초안까지 사내 규정 컴플라이언스를 자동화하는 SaaS | [jycho91/mentalcoach](https://github.com/jycho91/mentalcoach) \* |
 | 13 | VetScribe | 한국 중소형 동물병원을 위한 보호자 커뮤니케이션 자동화 — 예방접종·수술 전후·재내원 안내를 카카오톡으로 자동 발송하고 AI가 안내문 작성을 보조 | [Jaewon-01/Vetscribe](https://github.com/Jaewon-01/Vetscribe) \*, [Eunji-Kim-412/team_chorus](https://github.com/Eunji-Kim-412/team_chorus) |
 | 14 | 걱정인형: 리더스 | 신임 팀장의 리더십 불안과 '샌드위치 스트레스'를 관리하는 AI 시크릿 멘토 | [dubidubadubiduba/k-ai-mental-support](https://github.com/dubidubadubiduba/k-ai-mental-support) \*, [junbumlee/k-ai-mental-support](https://github.com/junbumlee/k-ai-mental-support) |
+| 15 | team_glocalx | GlocalX (김경문 MVP) | 40대 이상 5인이하 소상공인을 위한 마케팅 AI에이전트 | [KMKIM1AI/KMKIM1AI.github.io](https://github.com/KMKIM1AI/KMKIM1AI.github.io) |
+
 
 \* Most recent / primary repository.
 † Repository is currently private or deleted (inaccessible); listed for contribution-history reference — pending update by the team.
